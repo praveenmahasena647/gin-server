@@ -7,6 +7,7 @@ import (
 	"github.com/praveenmahasena647/vue-todo/dbs"
 )
 
+// just playing with Gin
 func RunServer() {
 	var router = gin.Default()
 
