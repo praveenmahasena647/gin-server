@@ -1,6 +1,6 @@
 # gin-server
 
-This is a simple API server which was written in the perpose of learning [gin-go](https://gin-gonic.com/).
+This is a simple API server which was written in [Golang](https://go.dev/) with the perpose of learning [gin-go](https://gin-gonic.com/).
  
 ## Endpoints
 
@@ -13,5 +13,5 @@ This is a simple API server which was written in the perpose of learning [gin-go
 
 ## Development
 ```sh
-go run .
+git clone https://github.com/praveenmahasena647/gin-server.git . && go run .
 ```
